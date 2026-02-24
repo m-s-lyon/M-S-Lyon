@@ -7,4 +7,4 @@
 - 📚 Learning:
 -   Cybersecurity fundamentals
 -   Cloud security fundamentals
-- LinkedIn: linkedin.com/in/mslyon (#)
+- LinkedIn: linkedin.com/in/mslyon
