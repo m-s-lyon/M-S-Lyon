@@ -6,5 +6,5 @@
 - 🧰 Tools in progress..: Git, GitHub, Wireshark, VirtualBox, VS Code
 - 📚 Learning:
 -   Cybersecurity fundamentals
--   Cloud security automation
-- LinkedIn: [linkedin.com/in/mslyon]
+-   Cloud security fundamentals
+- LinkedIn: linkedin.com/in/mslyon
