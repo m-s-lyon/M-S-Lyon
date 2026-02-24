@@ -5,6 +5,6 @@
 - Building a personal homelab
 - 🧰 Tools in progress..: Git, GitHub, Wireshark, VirtualBox, VS Code
 - 📚 Learning:
--   Cybersecurity fundamentals
--   Cloud security fundamentals
+-   * Cybersecurity fundamentals
+-   * Cloud security fundamentals
 - LinkedIn: linkedin.com/in/mslyon
