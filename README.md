@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌩️ Currently pursuing my B.S. in Cloud and Network Engineering at WGU.  
+🌩️ Currently pursuing an accelerated B.S. and M.S. in Information Technology at WGU.  
 🔐 Interested in cloud security, system automation, and infrastructure resilience.
 - Building a personal homelab
 - 🧰 Tools in progress..: Git, GitHub, Wireshark, VirtualBox, VS Code
